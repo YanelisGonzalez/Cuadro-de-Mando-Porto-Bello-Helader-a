@@ -1,4 +1,3 @@
-# Cuadro-de-Mando-Porto-Bello-Heladería
 
 # 📊 Dashboard de Ventas – Heladería Artesanal Italiana Porto Bello (Power BI)
 
