@@ -1,2 +1,2 @@
-# Cuadro-de-Mando-Porto-Bello-Helader-a
+# Cuadro-de-Mando-Porto-Bello-Heladería
 Dashboard de KPIs para apoyar la toma de decisiones.
